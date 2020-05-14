@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9bccbd5-c24e-4204-84a4-355b3f6cf6fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="a83371e7-3f5c-4824-a587-47eabe5b614b" />
+  <component name="ProjectId" id="1Z7tvPG1Rt8GYiAISfIFljasJyo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="TexasCFR" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="TexasCFR" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="TexasCFR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/python.app/Contents/MacOS/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="TexasCFR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/python.app/Contents/MacOS/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9bccbd5-c24e-4204-84a4-355b3f6cf6fc" name="Default Changelist" comment="" />
+      <created>1584202189918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584202189918</updated>
+      <workItem from="1584202194103" duration="10441000" />
+      <workItem from="1584220475589" duration="9694000" />
+      <workItem from="1584237649729" duration="18412000" />
+      <workItem from="1584324291626" duration="2235000" />
+      <workItem from="1584413154033" duration="5051000" />
+      <workItem from="1584451257728" duration="13930000" />
+      <workItem from="1584748148194" duration="3216000" />
+      <workItem from="1584752664694" duration="1406000" />
+      <workItem from="1585422055781" duration="447000" />
+      <workItem from="1585423219717" duration="55449000" />
+      <workItem from="1586172121976" duration="2856000" />
+      <workItem from="1586259983325" duration="6928000" />
+      <workItem from="1586342563241" duration="5745000" />
+      <workItem from="1587199062559" duration="696000" />
+      <workItem from="1587366546959" duration="19085000" />
+      <workItem from="1587477102476" duration="894000" />
+      <workItem from="1587893272533" duration="237000" />
+      <workItem from="1588080500345" duration="415000" />
+      <workItem from="1588873464039" duration="3795000" />
+      <workItem from="1589395932536" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="183" y="111" width="1073" height="698" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584456086607">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="183" y="111" width="1073" height="698" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1584456086607" />
+    <state x="407" y="192" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587199240583">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="407" y="192" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1587199240583" />
+    <state width="1396" height="769" key="GridCell.Tab.0.bottom" timestamp="1588885972362">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="769" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588885972362" />
+    <state width="1396" height="769" key="GridCell.Tab.0.center" timestamp="1588885972361">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="769" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588885972361" />
+    <state width="1396" height="769" key="GridCell.Tab.0.left" timestamp="1588885972360">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="769" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588885972360" />
+    <state width="1396" height="769" key="GridCell.Tab.0.right" timestamp="1588885972361">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="769" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588885972361" />
+    <state width="1396" height="302" key="GridCell.Tab.1.bottom" timestamp="1586362971652">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="302" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586362971652" />
+    <state width="1396" height="302" key="GridCell.Tab.1.center" timestamp="1586362971651">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="302" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586362971651" />
+    <state width="1396" height="302" key="GridCell.Tab.1.left" timestamp="1586362971651">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="302" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586362971651" />
+    <state width="1396" height="302" key="GridCell.Tab.1.right" timestamp="1586362971652">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="302" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586362971652" />
+    <state x="220" y="89" key="SettingsEditor" timestamp="1589395943061">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1589395943061" />
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1586121428964">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586121428964" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TexasCFR$game.coverage" NAME="game Coverage Results" MODIFIED="1588885732931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include" />
+  </component>
+</project>

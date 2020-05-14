@@ -1,0 +1,10 @@
+ante: 0
+blind_structure: null
+initial_stack: 100
+max_round: 10
+small_blind: 10
+ai_players:
+- name: deepstack_player_1
+  path: ./deepstack_player_setup.py
+#- name: deepstack_player_2
+#  path: ./deepstack_player_setup.py
